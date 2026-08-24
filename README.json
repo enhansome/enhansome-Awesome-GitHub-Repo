@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T13:09:29Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 235486
+                "stars": 235492
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-06T13:29:47Z",
                 "owner": "msitarzewski",
                 "repo": "agency-agents",
-                "stars": 147759
+                "stars": 147760
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-24T13:18:11Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 144893
+                "stars": 144894
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-12T03:39:49Z",
                 "owner": "Panniantong",
                 "repo": "Agent-Reach",
-                "stars": 74699
+                "stars": 74703
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-24T09:19:48Z",
                 "owner": "ruvnet",
                 "repo": "ruflo",
-                "stars": 69238
+                "stars": 69239
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-24T09:19:48Z",
                 "owner": "ruvnet",
                 "repo": "ruflo",
-                "stars": 69238
+                "stars": 69239
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2026-08-24T12:30:29Z",
                 "owner": "tinyhumansai",
                 "repo": "openhuman",
-                "stars": 37040
+                "stars": 37048
               }
             },
             {
@@ -549,7 +549,7 @@
                 "last_commit": "2026-08-24T05:00:04Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 242785
+                "stars": 242786
               }
             },
             {
@@ -564,7 +564,7 @@
                 "last_commit": "2026-08-21T10:56:48Z",
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 234874
+                "stars": 234887
               }
             },
             {
@@ -579,7 +579,7 @@
                 "last_commit": "2026-04-20T10:05:04Z",
                 "owner": "multica-ai",
                 "repo": "andrej-karpathy-skills",
-                "stars": 206176
+                "stars": 206179
               }
             },
             {
@@ -594,7 +594,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171314
+                "stars": 171317
               }
             },
             {
@@ -609,7 +609,7 @@
                 "last_commit": "2026-08-21T21:29:37Z",
                 "owner": "github",
                 "repo": "spec-kit",
-                "stars": 131073
+                "stars": 131077
               }
             },
             {
@@ -624,7 +624,7 @@
                 "last_commit": "2026-08-22T02:22:16Z",
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 129410
+                "stars": 129411
               }
             },
             {
@@ -639,7 +639,7 @@
                 "last_commit": "2026-08-21T18:15:04Z",
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 89407
+                "stars": 89410
               }
             },
             {
@@ -651,10 +651,10 @@
                 "archived": false,
                 "id": 1162099055,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T15:27:49Z",
+                "last_commit": "2026-08-24T13:45:42Z",
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 79942
+                "stars": 79945
               }
             },
             {
@@ -669,7 +669,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73142
+                "stars": 73141
               }
             },
             {
@@ -714,7 +714,7 @@
                 "last_commit": "2026-08-24T09:22:55Z",
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 34239
+                "stars": 34242
               }
             },
             {
@@ -729,7 +729,7 @@
                 "last_commit": "2026-08-18T20:28:34Z",
                 "owner": "vercel-labs",
                 "repo": "skills",
-                "stars": 29566
+                "stars": 29567
               }
             },
             {
@@ -759,7 +759,7 @@
                 "last_commit": "2026-07-04T16:25:18Z",
                 "owner": "JimLiu",
                 "repo": "baoyu-skills",
-                "stars": 25286
+                "stars": 25287
               }
             },
             {
@@ -819,7 +819,7 @@
                 "last_commit": "2026-07-02T13:31:02Z",
                 "owner": "mattpocock",
                 "repo": "dictionary-of-ai-coding",
-                "stars": 3965
+                "stars": 3966
               }
             },
             {
@@ -916,7 +916,7 @@
                 "last_commit": "2026-08-24T09:03:55Z",
                 "owner": "farion1231",
                 "repo": "cc-switch",
-                "stars": 129134
+                "stars": 129135
               }
             },
             {
@@ -931,7 +931,7 @@
                 "last_commit": "2026-07-18T15:55:05Z",
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 99659
+                "stars": 99661
               }
             },
             {
@@ -991,7 +991,7 @@
                 "last_commit": "2026-08-24T13:17:59Z",
                 "owner": "Hmbown",
                 "repo": "CodeWhale",
-                "stars": 40837
+                "stars": 40836
               }
             },
             {
@@ -1051,7 +1051,7 @@
                 "last_commit": "2026-08-24T13:31:24Z",
                 "owner": "davila7",
                 "repo": "claude-code-templates",
-                "stars": 30369
+                "stars": 30368
               }
             },
             {
@@ -1096,7 +1096,7 @@
                 "last_commit": "2026-08-04T15:20:42Z",
                 "owner": "virattt",
                 "repo": "dexter",
-                "stars": 27542
+                "stars": 27541
               }
             },
             {
@@ -1126,7 +1126,7 @@
                 "last_commit": "2026-08-14T10:08:34Z",
                 "owner": "decolua",
                 "repo": "9router",
-                "stars": 26200
+                "stars": 26201
               }
             },
             {
@@ -1156,7 +1156,7 @@
                 "last_commit": "2026-08-15T15:20:35Z",
                 "owner": "yikart",
                 "repo": "AiToEarn",
-                "stars": 25216
+                "stars": 25217
               }
             },
             {
@@ -1216,7 +1216,7 @@
                 "last_commit": "2026-08-14T21:46:25Z",
                 "owner": "danielmiessler",
                 "repo": "LifeOS",
-                "stars": 18706
+                "stars": 18708
               }
             },
             {
@@ -1231,7 +1231,7 @@
                 "last_commit": "2026-08-24T08:27:44Z",
                 "owner": "1jehuang",
                 "repo": "jcode",
-                "stars": 18411
+                "stars": 18412
               }
             },
             {
@@ -1381,7 +1381,7 @@
                 "last_commit": "2026-08-18T17:04:31Z",
                 "owner": "google",
                 "repo": "agents-cli",
-                "stars": 5713
+                "stars": 5712
               }
             },
             {
@@ -1396,7 +1396,7 @@
                 "last_commit": "2026-08-24T08:17:07Z",
                 "owner": "strukto-ai",
                 "repo": "mirage",
-                "stars": 3561
+                "stars": 3562
               }
             },
             {
@@ -1678,7 +1678,7 @@
                 "last_commit": "2026-07-17T13:54:28Z",
                 "owner": "sansan0",
                 "repo": "TrendRadar",
-                "stars": 61741
+                "stars": 61742
               }
             },
             {
@@ -1827,7 +1827,7 @@
                 "last_commit": "2026-08-24T06:18:44Z",
                 "owner": "firecrawl",
                 "repo": "firecrawl",
-                "stars": 171630
+                "stars": 171640
               }
             },
             {
@@ -1842,7 +1842,7 @@
                 "last_commit": "2026-08-24T07:38:40Z",
                 "owner": "unclecode",
                 "repo": "crawl4ai",
-                "stars": 79315
+                "stars": 79316
               }
             },
             {
@@ -1857,7 +1857,7 @@
                 "last_commit": "2026-08-23T19:49:06Z",
                 "owner": "D4Vinci",
                 "repo": "Scrapling",
-                "stars": 76235
+                "stars": 76237
               }
             },
             {
@@ -2072,7 +2072,7 @@
                 "last_commit": "2026-08-24T12:12:11Z",
                 "owner": "ruvnet",
                 "repo": "RuView",
-                "stars": 91458
+                "stars": 91459
               }
             },
             {
@@ -2122,7 +2122,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "SteamTools",
               "description": "Steam++ 是一个开源跨平台的多功能 Steam 工具箱，此工具的大部分功能都是需要下载安装 Steam 才能使用。功能包括网络加速、脚本配置、账号切换、库存管理、自动挂卡、游戏工具，比如强制游戏窗口使用无边框窗口化。",
               "children": [],
               "repo_info": {
@@ -2289,7 +2289,7 @@
                 "last_commit": "2024-07-19T14:56:13Z",
                 "owner": "nvbn",
                 "repo": "thefuck",
-                "stars": 97739
+                "stars": 97740
               }
             },
             {
@@ -2633,7 +2633,7 @@
                 "last_commit": "2026-08-24T00:09:00Z",
                 "owner": "iptv-org",
                 "repo": "iptv",
-                "stars": 136600
+                "stars": 136602
               }
             },
             {
@@ -2750,7 +2750,7 @@
                 "archived": false,
                 "id": 1226286910,
                 "language": "Swift",
-                "last_commit": "2026-08-24T13:36:05Z",
+                "last_commit": "2026-08-24T13:46:45Z",
                 "owner": "darrylmorley",
                 "repo": "whatcable",
                 "stars": 8522
@@ -2780,7 +2780,7 @@
                 "archived": false,
                 "id": 1233290067,
                 "language": "Zig",
-                "last_commit": "2026-08-24T13:31:10Z",
+                "last_commit": "2026-08-24T13:41:33Z",
                 "owner": "vercel-labs",
                 "repo": "native",
                 "stars": 7562
@@ -4015,7 +4015,7 @@
                 "last_commit": "2026-07-31T20:39:07Z",
                 "owner": "macrozheng",
                 "repo": "mall-swarm",
-                "stars": 13098
+                "stars": 13099
               }
             },
             {
@@ -4037,6 +4037,28 @@
           "description": null,
           "node_type": "group",
           "title": "SpringCloud项目"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mee-admin",
+              "description": "一款轻量级、可快速上手的开源后台系统。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301922173,
+                "language": "Java",
+                "last_commit": "2024-12-09T11:49:33Z",
+                "owner": "funnyzpc",
+                "repo": "mee-admin",
+                "stars": 157
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "管理系统"
         },
         {
           "children": [
@@ -4364,7 +4386,7 @@
                 "last_commit": "2026-08-24T06:41:53Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189345
+                "stars": 189346
               }
             },
             {
@@ -4394,7 +4416,7 @@
                 "last_commit": "2026-08-24T11:39:53Z",
                 "owner": "microsoft",
                 "repo": "PowerToys",
-                "stars": 138051
+                "stars": 138052
               }
             },
             {
@@ -4454,7 +4476,7 @@
                 "last_commit": "2026-08-24T13:14:38Z",
                 "owner": "hugohe3",
                 "repo": "ppt-master",
-                "stars": 48987
+                "stars": 48989
               }
             },
             {
@@ -4514,7 +4536,7 @@
                 "last_commit": "2026-08-20T08:56:18Z",
                 "owner": "amruthpillai",
                 "repo": "reactive-resume",
-                "stars": 41638
+                "stars": 41639
               }
             },
             {
@@ -4664,7 +4686,7 @@
                 "last_commit": "2026-05-01T00:11:29Z",
                 "owner": "rendercv",
                 "repo": "rendercv",
-                "stars": 17421
+                "stars": 17420
               }
             },
             {
@@ -4754,7 +4776,7 @@
                 "last_commit": "2026-08-20T05:08:43Z",
                 "owner": "simonlin1212",
                 "repo": "a-stock-data",
-                "stars": 9177
+                "stars": 9180
               }
             },
             {
@@ -4814,7 +4836,7 @@
                 "last_commit": "2026-08-24T03:42:57Z",
                 "owner": "XBuilderLAB",
                 "repo": "cheat-on-content",
-                "stars": 6567
+                "stars": 6568
               }
             },
             {
@@ -5107,6 +5129,21 @@
                 "owner": "wagoodman",
                 "repo": "dive",
                 "stars": 54484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[lazydocker](http s:// github.com/jesseduffield/lazydocker",
+              "description": ") - 带命令行 UI 的 docker 管理工具。可以通过点点点来管理 docker，却又不需要装 rancher 这样的企业级容器管理平台。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187335810,
+                "language": "Go",
+                "last_commit": "2026-04-19T02:51:06Z",
+                "owner": "jesseduffield",
+                "repo": "lazydocker",
+                "stars": 52591
               }
             },
             {
@@ -5488,7 +5525,7 @@
                 "last_commit": "2026-08-24T13:38:48Z",
                 "owner": "larksuite",
                 "repo": "cli",
-                "stars": 16706
+                "stars": 16707
               }
             },
             {
@@ -5755,7 +5792,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542524
+                "stars": 542527
               }
             },
             {
@@ -5770,7 +5807,7 @@
                 "last_commit": "2026-08-19T21:44:19Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 469618
+                "stars": 469626
               }
             },
             {
@@ -5785,7 +5822,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395131
+                "stars": 395132
               }
             },
             {
@@ -5800,7 +5837,7 @@
                 "last_commit": "2026-03-20T01:52:19Z",
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 365712
+                "stars": 365716
               }
             },
             {
@@ -5875,7 +5912,7 @@
                 "last_commit": "2026-08-18T06:51:35Z",
                 "owner": "datawhalechina",
                 "repo": "hello-agents",
-                "stars": 74512
+                "stars": 74514
               }
             },
             {
@@ -5890,7 +5927,7 @@
                 "last_commit": "2025-10-10T06:25:48Z",
                 "owner": "Lordog",
                 "repo": "dive-into-llms",
-                "stars": 50080
+                "stars": 50081
               }
             },
             {
@@ -6271,7 +6308,7 @@
                 "last_commit": "2026-08-24T06:42:58Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315794
+                "stars": 315797
               }
             },
             {
@@ -6286,7 +6323,7 @@
                 "last_commit": "2026-08-24T07:38:50Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 280596
+                "stars": 280599
               }
             },
             {
@@ -6316,7 +6353,7 @@
                 "last_commit": "2026-08-01T08:02:17Z",
                 "owner": "keon",
                 "repo": "algorithms",
-                "stars": 25543
+                "stars": 25542
               }
             },
             {
@@ -6488,6 +6525,28 @@
           "description": null,
           "node_type": "group",
           "title": "Python资源"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "free-programming-books",
+              "description": "收集了特别多免费的编程电子书、编程课程、播客、网站等学习资源。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13491895,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:16:15Z",
+                "owner": "EbookFoundation",
+                "repo": "free-programming-books",
+                "stars": 395132
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "电子书籍"
         },
         {
           "children": [
@@ -7033,7 +7092,7 @@
                 "last_commit": "2026-08-04T09:07:09Z",
                 "owner": "apache",
                 "repo": "echarts",
-                "stars": 67135
+                "stars": 67136
               }
             },
             {
@@ -7212,7 +7271,7 @@
                 "last_commit": "2026-08-24T12:43:50Z",
                 "owner": "ant-design",
                 "repo": "ant-design",
-                "stars": 99170
+                "stars": 99172
               }
             },
             {
@@ -7377,7 +7436,7 @@
                 "last_commit": "2026-08-24T12:11:13Z",
                 "owner": "opensandbox-group",
                 "repo": "OpenSandbox",
-                "stars": 14649
+                "stars": 14650
               }
             },
             {
@@ -7696,10 +7755,10 @@
                 "archived": false,
                 "id": 979115477,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:27:43Z",
+                "last_commit": "2026-08-24T13:48:38Z",
                 "owner": "bytedance",
                 "repo": "deer-flow",
-                "stars": 80775
+                "stars": 80776
               }
             },
             {
@@ -7727,7 +7786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:39:33.074Z",
+    "last_updated": "2026-08-24T13:50:00.699Z",
     "original_repository": "Wechat-ggGitHub/Awesome-GitHub-Repo",
     "original_repository_id": 442071289,
     "original_repository_sha": "b580168c397e5345ddd1454272da90a115cc80b7",

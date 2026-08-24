@@ -64,21 +64,21 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### AI Agent
 
-* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 235,486 | 🐛 35,172 | 🌐 Python | 📅 2026-08-24 - 越用越聪明的 AI Agent，持续学习和进化。
+* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 235,492 | 🐛 35,174 | 🌐 Python | 📅 2026-08-24 - 越用越聪明的 AI Agent，持续学习和进化。
 * [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 186,849 | 🐛 536 | 🌐 Python | 📅 2026-08-24 - 最著名的自主AI Agent项目之一，能够自主设定目标、分解任务、执行操作并迭代改进，无需人工干预即可完成复杂任务。
 * [Dify](https://github.com/langgenius/dify) ⭐ 153,361 | 🐛 965 | 🌐 TypeScript | 📅 2026-08-24 - 一站式LLM应用开发平台，提供可视化工作流编排、RAG引擎、Agent框架等功能，无需编程即可构建AI应用。
-* [Agency-Agents](https://github.com/msitarzewski/agency-agents) ⭐ 147,759 | 🐛 150 | 🌐 Shell | 📅 2026-08-06 - 55个专业AI角色组成的虚拟公司，包含工程师、设计师、市场等9个部门的结构化Prompt文件，可集成Claude Code作为通用Prompt模板使用。
-* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 144,893 | 🐛 419 | 🌐 Python | 📅 2026-08-24 - 构建大语言模型应用的事实标准框架，提供链式调用、记忆管理、工具集成等核心能力，支持Python和JavaScript。
-* [Agent Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 74,699 | 🐛 100 | 🌐 Python | 📅 2026-08-12 - 给 AI Agent 一键装上互联网能力，支持 Twitter、YouTube、Reddit、B站、小红书等 9+ 平台，一条 CLI 命令搞定所有平台配置，兼容 Claude Code、OpenClaw、Cursor 等。
+* [Agency-Agents](https://github.com/msitarzewski/agency-agents) ⭐ 147,760 | 🐛 150 | 🌐 Shell | 📅 2026-08-06 - 55个专业AI角色组成的虚拟公司，包含工程师、设计师、市场等9个部门的结构化Prompt文件，可集成Claude Code作为通用Prompt模板使用。
+* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 144,894 | 🐛 419 | 🌐 Python | 📅 2026-08-24 - 构建大语言模型应用的事实标准框架，提供链式调用、记忆管理、工具集成等核心能力，支持Python和JavaScript。
+* [Agent Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 74,703 | 🐛 100 | 🌐 Python | 📅 2026-08-12 - 给 AI Agent 一键装上互联网能力，支持 Twitter、YouTube、Reddit、B站、小红书等 9+ 平台，一条 CLI 命令搞定所有平台配置，兼容 Claude Code、OpenClaw、Cursor 等。
 * [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 69,994 | 🐛 131 | 🌐 Python | 📅 2026-01-21 - 多Agent协作的软件开发框架，模拟软件公司角色分工（产品经理、架构师、程序员等），一句话需求自动生成完整项目代码。
-* [Claude-Flow](https://github.com/ruvnet/claude-flow) ⭐ 69,238 | 🐛 835 | 🌐 TypeScript | 📅 2026-08-24 - 专为 Claude 生态打造的 Agent 编排平台，支持部署智能多 Agent 群、协调自主工作流、构建对话式 AI 系统，可与企业级架构和 RAG 集成，原生支持 Claude Code / Codex。
-* [Ruflo](https://github.com/ruvnet/ruflo) ⭐ 69,238 | 🐛 835 | 🌐 TypeScript | 📅 2026-08-24 - Claude Agent 编排平台。
+* [Claude-Flow](https://github.com/ruvnet/claude-flow) ⭐ 69,239 | 🐛 835 | 🌐 TypeScript | 📅 2026-08-24 - 专为 Claude 生态打造的 Agent 编排平台，支持部署智能多 Agent 群、协调自主工作流、构建对话式 AI 系统，可与企业级架构和 RAG 集成，原生支持 Claude Code / Codex。
+* [Ruflo](https://github.com/ruvnet/ruflo) ⭐ 69,239 | 🐛 835 | 🌐 TypeScript | 📅 2026-08-24 - Claude Agent 编排平台。
 * [Open Interpreter](https://github.com/openinterpreter/open-interpreter) ⭐ 68,131 | 🐛 5 | 🌐 Rust | 📅 2026-08-20 - 自然语言计算机界面，让大语言模型在本地直接运行代码、操作文件系统、执行命令，支持多种编程语言，可实现复杂任务的自动化执行。
 * [AutoGen](https://github.com/microsoft/autogen) ⭐ 60,607 | 🐛 998 | 🌐 Python | 📅 2026-04-15 - 微软开源的多Agent对话框架，支持Agent之间自主对话协作完成复杂任务，提供灵活的对话模式和人类介入机制。
 * [CrewAI](https://github.com/crewAIInc/crewAI) ⭐ 57,552 | 🐛 836 | 🌐 Python | 📅 2026-08-24 - 专注于多Agent协作的Python框架，支持角色扮演、任务分配和协作执行，适合构建虚拟团队完成复杂任务。
 * [Flowise](https://github.com/FlowiseAI/Flowise) ⚠️ Archived - 可视化LLM应用构建工具，通过拖拽方式设计AI工作流，支持LangChain生态，无需代码即可构建复杂的AI应用。
 * [UI-TARS-Desktop](https://github.com/bytedance/UI-TARS-desktop) ⭐ 38,702 | 🐛 425 | 🌐 TypeScript | 📅 2026-08-05 - 字节跳动开源的桌面GUI Agent，基于视觉语言模型实现电脑自动化操作，支持复杂多步骤任务。
-* [OpenHuman](https://github.com/tinyhumansai/openhuman) ⭐ 37,040 | 🐛 296 | 🌐 Rust | 📅 2026-08-24 - 隐私优先的桌面 AI Agent，Memory Tree 记忆系统，118+ 服务一键连接，Rust 编写本地运行。
+* [OpenHuman](https://github.com/tinyhumansai/openhuman) ⭐ 37,048 | 🐛 296 | 🌐 Rust | 📅 2026-08-24 - 隐私优先的桌面 AI Agent，Memory Tree 记忆系统，118+ 服务一键连接，Rust 编写本地运行。
 * [ChatDev](https://github.com/OpenBMB/ChatDev) ⭐ 34,114 | 🐛 67 | 🌐 Python | 📅 2026-07-24 - 用AI模拟软件公司的开源项目，多个Agent扮演不同职位协作开发软件，完整模拟需求分析、编码、测试全流程。
 * [Symphony](https://github.com/openai/symphony) ⭐ 26,829 | 🐛 8 | 🌐 Elixir | 📅 2026-08-19 - OpenAI 出品的 Agent 协作框架。
 * [OmniParser](https://github.com/microsoft/OmniParser) ⭐ 25,302 | 🐛 230 | 🌐 Jupyter Notebook | 📅 2026-07-20 - 微软开源的屏幕内容解析工具，能够将任意UI截图转换为结构化数据，识别按钮、图标、文本等元素及其位置，为GUI自动化提供基础能力。
@@ -102,25 +102,25 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 ### AI Skills
 
 * [obra/superpowers](https://github.com/obra/superpowers) ⭐ 276,916 | 🐛 311 | 🌐 Shell | 📅 2026-08-19 - 包含多个实用 Skill 的仓库，如 brainstorming 强制在设计前做讨论、systematic-debugging 系统化调试方法论等，核心理念是在没有找到根本原因之前禁止尝试任何修复。
-* [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ 242,785 | 🐛 160 | 🌐 JavaScript | 📅 2026-08-24 - Claude Code 性能优化全家桶。
-* [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 234,874 | 🐛 392 | 🌐 Shell | 📅 2026-08-21 - TypeScript 大佬 Matt Pocock 开源的 AI Coding 实战 Skills，教你用 AI 写出工程级代码。
-* [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 206,176 | 🐛 128 | 📅 2026-04-20 - Karpathy 风格 AI 编程规范。
-* [anthropics/skills](https://github.com/anthropics/skills) ⭐ 171,314 | 🐛 1,147 | 🌐 Python | 📅 2026-08-21 - Anthropic 官方发布的 Agent Skills 公共仓库，定义了 Claude 的 Skill 标准，包含大量现成的 Skill 如文档处理、mcp-builder、artifacts-builder 等，既可在 Claude Code 中用，也可集成到 Claude.ai 或通过 API 调用。
-* [spec-kit](https://github.com/github/spec-kit) ⭐ 131,073 | 🐛 353 | 🌐 Python | 📅 2026-08-21 - GitHub 官方推出的规格驱动开发工具包。
-* [gstack](https://github.com/garrytan/gstack) ⭐ 129,410 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-22 - YC 总裁 Garry Tan 的 Claude Code 专项工具集，包含 12 个 Skill 覆盖 CEO 思维审查、工程架构评审、设计审计、代码 Review、一键发布、浏览器自动化 QA、团队复盘等完整开发工作流，支持 10 个并行会话各自独立浏览器实例，MIT 开源。
-* [agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 89,407 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-21 - Chrome 团队 Addy Osmani 出品的 AI 编程 Agent 生产级工程技能包。
-* [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 79,942 | 🐛 57 | 🌐 JavaScript | 📅 2026-08-22 - 给 AI 编程助手装上设计品味的技能插件，告别模板化 UI，支持 Cursor/Claude Code/Codex 等主流工具，39k+ Star。
-* [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,142 | 🐛 1,321 | 🌐 Python | 📅 2026-08-10 - Claude Skills 大合集已有 34.9k Star，特别擅长文档处理：PDF 提取文本表格元数据合并加注释、Word 追踪修改添加评论格式化、Excel 写公式生成图表数据转换、PPT 读取生成调整布局模板等，装上后 Claude 就能按标准化方式处理各种文档。
+* [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ 242,786 | 🐛 160 | 🌐 JavaScript | 📅 2026-08-24 - Claude Code 性能优化全家桶。
+* [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 234,887 | 🐛 392 | 🌐 Shell | 📅 2026-08-21 - TypeScript 大佬 Matt Pocock 开源的 AI Coding 实战 Skills，教你用 AI 写出工程级代码。
+* [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 206,179 | 🐛 128 | 📅 2026-04-20 - Karpathy 风格 AI 编程规范。
+* [anthropics/skills](https://github.com/anthropics/skills) ⭐ 171,317 | 🐛 1,147 | 🌐 Python | 📅 2026-08-21 - Anthropic 官方发布的 Agent Skills 公共仓库，定义了 Claude 的 Skill 标准，包含大量现成的 Skill 如文档处理、mcp-builder、artifacts-builder 等，既可在 Claude Code 中用，也可集成到 Claude.ai 或通过 API 调用。
+* [spec-kit](https://github.com/github/spec-kit) ⭐ 131,077 | 🐛 353 | 🌐 Python | 📅 2026-08-21 - GitHub 官方推出的规格驱动开发工具包。
+* [gstack](https://github.com/garrytan/gstack) ⭐ 129,411 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-22 - YC 总裁 Garry Tan 的 Claude Code 专项工具集，包含 12 个 Skill 覆盖 CEO 思维审查、工程架构评审、设计审计、代码 Review、一键发布、浏览器自动化 QA、团队复盘等完整开发工作流，支持 10 个并行会话各自独立浏览器实例，MIT 开源。
+* [agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 89,410 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-21 - Chrome 团队 Addy Osmani 出品的 AI 编程 Agent 生产级工程技能包。
+* [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 79,945 | 🐛 58 | 🌐 JavaScript | 📅 2026-08-24 - 给 AI 编程助手装上设计品味的技能插件，告别模板化 UI，支持 Cursor/Claude Code/Codex 等主流工具，39k+ Star。
+* [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,141 | 🐛 1,321 | 🌐 Python | 📅 2026-08-10 - Claude Skills 大合集已有 34.9k Star，特别擅长文档处理：PDF 提取文本表格元数据合并加注释、Word 追踪修改添加评论格式化、Excel 写公式生成图表数据转换、PPT 读取生成调整布局模板等，装上后 Claude 就能按标准化方式处理各种文档。
 * [marketingskills](https://github.com/coreyhaines31/marketingskills) ⭐ 45,434 | 🐛 104 | 🌐 JavaScript | 📅 2026-08-23 - 专为营销同学准备的 Skill 包，包含 26 个营销相关 Skill 覆盖转化率优化、文案写作、SEO、数据分析、增长黑客等领域，如 page-cro、copywriting、seo-audit、programmatic-seo、paid-ads 等。
 * [claude-howto](https://github.com/luongnv89/claude-howto) ⭐ 41,177 | 🐛 29 | 🌐 Python | 📅 2026-08-19 - Claude Code 快速上手教程。
-* [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 34,239 | 🐛 8 | 🌐 Python | 📅 2026-08-24 - 覆盖科研、金融、写作场景的 Agent Skills 合集。
-* [vercel-labs/skills](https://github.com/vercel-labs/skills) ⭐ 29,566 | 🐛 1,107 | 🌐 TypeScript | 📅 2026-08-18 - Vercel 官方推出的 Skills 搜索神器，通过 `npx skills` 命令实现 Skills 的搜索、安装、检查更新和一键升级，配套 skills.sh 网站在线浏览所有 Skills，是 Skills 包管理器。
+* [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 34,242 | 🐛 8 | 🌐 Python | 📅 2026-08-24 - 覆盖科研、金融、写作场景的 Agent Skills 合集。
+* [vercel-labs/skills](https://github.com/vercel-labs/skills) ⭐ 29,567 | 🐛 1,107 | 🌐 TypeScript | 📅 2026-08-18 - Vercel 官方推出的 Skills 搜索神器，通过 `npx skills` 命令实现 Skills 的搜索、安装、检查更新和一键升级，配套 skills.sh 网站在线浏览所有 Skills，是 Skills 包管理器。
 * [agentmemory](https://github.com/rohitg00/agentmemory) ⭐ 27,348 | 🐛 491 | 🌐 TypeScript | 📅 2026-08-24 - AI 编码 Agent 的持久化记忆方案，基于真实 benchmark。
-* [baoyu-skills](https://github.com/JimLiu/baoyu-skills) ⭐ 25,286 | 🐛 14 | 🌐 TypeScript | 📅 2026-07-04 - 宝玉老师开源的自媒体内容创作 Skills 全家桶，包含 xhs-images 小红书信息图、infographic 专业信息图、cover-image 文章封面图、slide-deck 幻灯片、comic 知识漫画、post-to-wechat 微信发布、post-to-x Twitter 发布等多个实用 Skill。
+* [baoyu-skills](https://github.com/JimLiu/baoyu-skills) ⭐ 25,287 | 🐛 14 | 🌐 TypeScript | 📅 2026-07-04 - 宝玉老师开源的自媒体内容创作 Skills 全家桶，包含 xhs-images 小红书信息图、infographic 专业信息图、cover-image 文章封面图、slide-deck 幻灯片、comic 知识漫画、post-to-wechat 微信发布、post-to-x Twitter 发布等多个实用 Skill。
 * [pua](https://github.com/tanweai/pua) ⭐ 19,490 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-16 - 用大厂 PUA 话术驱动 AI 的 Claude Code 技能插件，让 AI 不敢放弃、主动出击，实测调试持久力 +36%、主动能动性 +50%。
 * [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) ⭐ 7,676 | 🐛 37 | 🌐 Python | 📅 2025-11-21 - 让 Claude Code 直接与 Google NotebookLM 交互的 Skill，通过本地 Python 环境和浏览器自动化操作，在命令行中通过自然语言查询自己的知识库，无需在浏览器和命令行之间反复复制粘贴。
 * [remotion-dev/skills](https://github.com/remotion-dev/skills) ⭐ 4,397 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-24 - Remotion 官方推出的视频制作 Skill，将 Remotion 框架的文档、API 规范和最佳实践封装成 AI 可读取的 Context，让 AI 成为专业的视频制作助手，支持用代码方式生成视频。
-* [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) ⭐ 3,965 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-02 - AI Coding 术语大白话词典，把行话翻译成人话。
+* [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) ⭐ 3,966 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-02 - AI Coding 术语大白话词典，把行话翻译成人话。
 * [NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) ⭐ 3,217 | 🐛 6 | 🌐 Python | 📅 2026-01-19 - AI 自动生成 PPT 的 Skill，智能分析文档提取核心要点规划 PPT 结构，用 Google Nano Banana Pro 模型生成高质量图片支持 2K/4K 分辨率，还能用可灵 AI 自动生成转场视频，内置渐变毛玻璃和矢量插画两种风格。
 * [PUAClaw](https://github.com/puaclaw/PUAClaw) ⭐ 2,698 | 🐛 12 | 🌐 HTML | 📅 2026-03-09 - AI 提示词说服工程框架，96 项 PUA 技术分类体系，龙虾评级系统（🦞 到 🦞🦞🦞🦞🦞），经 147 只龙虾亲身验证的学术娱乐项目。
 * [Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) ⭐ 2,155 | 🐛 11 | 🌐 Python | 📅 2026-01-22 - YouTube 视频剪辑 Skill，丢个链接自动完成环境检查、下载、语义分析、剪辑和双语字幕生成，利用 Claude 的 AI 能力对视频字幕进行语义分析自动生成精华切片，还能生成适用于小红书、抖音等平台的摘要素材。
@@ -129,28 +129,28 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### AI 工具
 
-* [cc-switch](https://github.com/farion1231/cc-switch) ⭐ 129,134 | 🐛 2,396 | 🌐 Rust | 📅 2026-08-24 - 一键切换 AI 渠道。
-* [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 99,659 | 🐛 371 | 🌐 Python | 📅 2026-07-18 - 多 Agent 金融交易框架。
+* [cc-switch](https://github.com/farion1231/cc-switch) ⭐ 129,135 | 🐛 2,396 | 🌐 Rust | 📅 2026-08-24 - 一键切换 AI 渠道。
+* [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 99,661 | 🐛 371 | 🌐 Python | 📅 2026-07-18 - 多 Agent 金融交易框架。
 * [Warp](https://github.com/warpdotdev/warp) ⭐ 64,487 | 🐛 5,097 | 🌐 Rust | 📅 2026-08-24 - Agentic 开发环境终端，狂揽 4.6 万 Star。
 * [Supervision](https://github.com/roboflow/supervision) ⭐ 49,703 | 🐛 72 | 🌐 Python | 📅 2026-08-24 - 可复用的计算机视觉工具库，检测、分割、标注全流程覆盖。
 * [Fabric](https://github.com/danielmiessler/Fabric) ⭐ 43,513 | 🐛 65 | 🌐 Go | 📅 2026-08-09 - AI 增强的命令行工具集，集成多种 AI 能力如文本摘要、内容提取、格式转换等，大幅提升命令行工作效率。
-* [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) ⭐ 40,837 | 🐛 140 | 🌐 Rust | 📅 2026-08-24 - Rust 写的终端原生 AI 编程 Agent，专门对接 DeepSeek V4，相当于 DeepSeek 版 Claude Code。
+* [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) ⭐ 40,836 | 🐛 140 | 🌐 Rust | 📅 2026-08-24 - Rust 写的终端原生 AI 编程 Agent，专门对接 DeepSeek V4，相当于 DeepSeek 版 Claude Code。
 * [LangExtract](https://github.com/google/langextract) ⭐ 38,479 | 🐛 133 | 🌐 Python | 📅 2026-08-19 - Google 开源的语言信息提取工具，利用大语言模型从非结构化文本中提取结构化信息，支持自定义 Schema。
 * [Kronos](https://github.com/shiyu-coder/Kronos) ⭐ 37,839 | 🐛 265 | 🌐 Python | 📅 2026-04-13 - 专为金融市场语言设计的基础大模型。
 * [financial-services](https://github.com/anthropics/financial-services) ⭐ 34,484 | 🐛 194 | 🌐 Python | 📅 2026-08-21 - Anthropic 官方金融 AI 落地方案。
-* [Claude Code Templates](https://github.com/davila7/claude-code-templates) ⭐ 30,369 | 🐛 234 | 🌐 Python | 📅 2026-08-24 - Claude Code 使用模板和最佳实践集合，包含各类场景的 Prompt 模板、工作流配置和示例代码。
+* [Claude Code Templates](https://github.com/davila7/claude-code-templates) ⭐ 30,368 | 🐛 234 | 🌐 Python | 📅 2026-08-24 - Claude Code 使用模板和最佳实践集合，包含各类场景的 Prompt 模板、工作流配置和示例代码。
 * [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) ⭐ 29,547 | 🐛 1,174 | 🌐 Rust | 📅 2026-08-24 - Codex 增强工具，解锁插件和会话删除。
 * [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) ⭐ 27,903 | 🐛 533 | 🌐 Rust | 📅 2026-04-24 - AI 驱动的看板管理工具，结合自然语言处理实现智能任务分配、优先级排序和进度追踪，提升团队协作效率。
-* [Dexter](https://github.com/virattt/dexter) ⭐ 27,542 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-04 - 自主金融研究 Agent。
+* [Dexter](https://github.com/virattt/dexter) ⭐ 27,541 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-04 - 自主金融研究 Agent。
 * [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) ⭐ 27,269 | 🐛 160 | 🌐 Python | 📅 2026-06-14 - 阿里开源的全自动短视频引擎，一条龙生成视频。
-* [9router](https://github.com/decolua/9router) ⭐ 26,200 | 🐛 1,786 | 🌐 JavaScript | 📅 2026-08-14 - 免费白嫖 AI Coding 的路由器，一键接入 40+ 模型。
+* [9router](https://github.com/decolua/9router) ⭐ 26,201 | 🐛 1,786 | 🌐 JavaScript | 📅 2026-08-14 - 免费白嫖 AI Coding 的路由器，一键接入 40+ 模型。
 * [Chatterbox](https://github.com/resemble-ai/chatterbox) ⭐ 26,128 | 🐛 358 | 🌐 Python | 📅 2026-07-21 - 高质量开源 TTS 语音合成工具，支持多语言、多说话人，提供情感控制和语速调节功能，适合 AI 语音应用开发。
-* [AiToEarn](https://github.com/yikart/AiToEarn) ⭐ 25,216 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-15 - 基于 AI 驱动的全平台社交媒体管理与内容分发工具，支持抖音、小红书、B站、TikTok、YouTube 等多平台一键发布，具备 AI 内容生成、内容日历管理、数据分析与趋势挖掘等功能。
+* [AiToEarn](https://github.com/yikart/AiToEarn) ⭐ 25,217 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-15 - 基于 AI 驱动的全平台社交媒体管理与内容分发工具，支持抖音、小红书、B站、TikTok、YouTube 等多平台一键发布，具备 AI 内容生成、内容日历管理、数据分析与趋势挖掘等功能。
 * [AI-Trader](https://github.com/HKUDS/AI-Trader) ⭐ 21,521 | 🐛 46 | 🌐 Python | 📅 2026-06-11 - 港大出品 100% 全自动 AI 交易平台。
 * [CodexBar](https://github.com/steipete/CodexBar) ⭐ 20,526 | 🐛 130 | 🌐 Swift | 📅 2026-08-24 - macOS 菜单栏小工具，监控 OpenAI Codex、Claude Code、Gemini、Copilot 等 AI 服务的使用量，随时查看配额剩余和重置时间。
-* [omlx](https://github.com/jundot/omlx) ⭐ 20,510 | 🐛 1,111 | 🌐 Python | 📅 2026-08-23 - Apple Silicon 本地 LLM 推理服务器。
-* [Personal AI Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) ⭐ 18,706 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14 - 个人 AI 基础设施搭建完整指南，涵盖本地部署 LLM、向量数据库、Agent 框架等组件的选型和配置。
-* [jcode](https://github.com/1jehuang/jcode) ⭐ 18,411 | 🐛 349 | 🌐 Rust | 📅 2026-08-24 - Rust 写的极简 Coding Agent 外壳，内存占用极低。
+* [omlx](https://github.com/jundot/omlx) ⭐ 20,510 | 🐛 1,112 | 🌐 Python | 📅 2026-08-23 - Apple Silicon 本地 LLM 推理服务器。
+* [Personal AI Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) ⭐ 18,708 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-14 - 个人 AI 基础设施搭建完整指南，涵盖本地部署 LLM、向量数据库、Agent 框架等组件的选型和配置。
+* [jcode](https://github.com/1jehuang/jcode) ⭐ 18,412 | 🐛 349 | 🌐 Rust | 📅 2026-08-24 - Rust 写的极简 Coding Agent 外壳，内存占用极低。
 * [Telegraf](https://github.com/influxdata/telegraf) ⭐ 17,764 | 🐛 398 | 🌐 Go | 📅 2026-08-21 - 万物皆可采集的指标 Agent，Go 语言编写，插件丰富。
 * [A2UI](https://github.com/google/A2UI) ⭐ 16,191 | 🐛 317 | 🌐 TypeScript | 📅 2026-08-22 - Google 开源的 AI 驱动 UI 自动化框架，通过自然语言描述自动生成 UI 操作流程，简化自动化测试和 RPA 开发。
 * [Vibe Coding CN](https://github.com/tukuaiai/vibe-coding-cn) ⭐ 15,973 | 🐛 5 | 🌐 Python | 📅 2026-08-04 - Vibe 编程中文资源汇总，介绍如何用 AI 辅助编程的新范式，包含工具推荐、使用技巧和案例分享。
@@ -160,8 +160,8 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 * [html-anything](https://github.com/nexu-io/html-anything) ⭐ 8,445 | 🐛 58 | 🌐 HTML | 📅 2026-08-23 - AI Agent 帮你写 HTML 的工具，75 套模板 9 种输出格式，零 API Key 一键生成。
 * [Modly](https://github.com/lightningpixel/modly) ⭐ 7,213 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-21 - 图片转 3D 模型工具。
 * [Vibe Vibe](https://github.com/datawhalechina/vibe-vibe) ⭐ 5,936 | 🐛 13 | 🌐 Dockerfile | 📅 2026-04-30 - Datawhale 出品的 Vibe 编程教程，系统讲解 AI 辅助编程的方法论和实践，适合开发者入门学习。
-* [agents-cli](https://github.com/google/agents-cli) ⭐ 5,713 | 🐛 36 | 🌐 Python | 📅 2026-08-18 - Google 官方 Agent CLI。
-* [Mirage](https://github.com/strukto-ai/mirage) ⭐ 3,561 | 🐛 105 | 🌐 TypeScript | 📅 2026-08-24 - AI Agent 统一虚拟文件系统，ls 一下操作 S3 和 Slack。
+* [agents-cli](https://github.com/google/agents-cli) ⭐ 5,712 | 🐛 37 | 🌐 Python | 📅 2026-08-18 - Google 官方 Agent CLI。
+* [Mirage](https://github.com/strukto-ai/mirage) ⭐ 3,562 | 🐛 105 | 🌐 TypeScript | 📅 2026-08-24 - AI Agent 统一虚拟文件系统，ls 一下操作 S3 和 Slack。
 * [3DCellForge](https://github.com/huangserva/3DCellForge) ⭐ 2,623 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-22 - AI 驱动的交互式 3D 模型生成、检查和展示工作室。
 * [Mano-P](https://github.com/Mininglamp-AI/Mano-P) ⭐ 2,566 | 🐛 25 | 📅 2026-06-25 - 面向端侧设备的 GUI Agent 模型，纯视觉方式理解和操作图形界面，可在 Mac 本地跑。
 * [deepclaude](https://github.com/aattaran/deepclaude) ⭐ 2,253 | 🐛 32 | 🌐 JavaScript | 📅 2026-07-23 - Claude Code 接入 DeepSeek 后端。
@@ -189,7 +189,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 综合信息聚合平台
 
-* [TrendRadar](https://github.com/sansan0/TrendRadar) ⭐ 61,741 | 🐛 61 | 🌐 Python | 📅 2026-07-17 - 多平台热点聚合 + RSS 订阅 + 关键词筛选的 AI 舆情与趋势监控系统，支持多渠道推送（微信/飞书/钉钉/Telegram/邮件等），支持 MCP 对话接入。
+* [TrendRadar](https://github.com/sansan0/TrendRadar) ⭐ 61,742 | 🐛 61 | 🌐 Python | 📅 2026-07-17 - 多平台热点聚合 + RSS 订阅 + 关键词筛选的 AI 舆情与趋势监控系统，支持多渠道推送（微信/飞书/钉钉/Telegram/邮件等），支持 MCP 对话接入。
 * [Folo](https://github.com/RSSNext/Folo) ⭐ 38,852 | 🐛 389 | 🌐 TypeScript | 📅 2026-08-17 - 27.8K Star 的信息聚合神器，把各种来源（文章、视频、动态等）集中在一个时间线，支持 AI 翻译和总结，可创建和分享订阅清单。
 * [BestBlogs](https://github.com/ginobefun/BestBlogs) ⭐ 3,990 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-08 - 汇集顶级编程、AI、产品、科技文章，使用大语言模型摘要评分辅助阅读，基于 Dify Workflow 构建，支持 200+ RSS 订阅源。
 * [Mimir](https://github.com/cctv2206/mimir-opensource) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-07-24 - AI 驱动的信息聚合与分发系统，支持 Twitter 实时监控、RSS 订阅、网页抓取、市场数据等，通过 Telegram / 飞书 / Webhook 分发。
@@ -204,9 +204,9 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 爬虫与抓取框架
 
-* [firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 171,630 | 🐛 553 | 🌐 TypeScript | 📅 2026-08-24 - "把网站变成 LLM-ready 数据"的 API，支持 Scrape / Search / Browse / Crawl / Map / Batch 等操作。
-* [crawl4ai](https://github.com/unclecode/crawl4ai) ⭐ 79,315 | 🐛 163 | 🌐 Python | 📅 2026-08-24 - LLM 友好的通用 Web Crawler & Scraper，主打大规模、低成本的网页抓取，为 AI 应用提供数据。
-* [Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 76,235 | 🐛 0 | 🌐 Python | 📅 2026-08-23 - 自适应 Web 抓取框架，支持 spider 框架、动态加载（Playwright）、反 bot、代理轮换、AI 集成。
+* [firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 171,640 | 🐛 553 | 🌐 TypeScript | 📅 2026-08-24 - "把网站变成 LLM-ready 数据"的 API，支持 Scrape / Search / Browse / Crawl / Map / Batch 等操作。
+* [crawl4ai](https://github.com/unclecode/crawl4ai) ⭐ 79,316 | 🐛 163 | 🌐 Python | 📅 2026-08-24 - LLM 友好的通用 Web Crawler & Scraper，主打大规模、低成本的网页抓取，为 AI 应用提供数据。
+* [Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 76,237 | 🐛 0 | 🌐 Python | 📅 2026-08-23 - 自适应 Web 抓取框架，支持 spider 框架、动态加载（Playwright）、反 bot、代理轮换、AI 集成。
 * [Scrapy](https://github.com/scrapy/scrapy) ⭐ 64,014 | 🐛 452 | 🌐 Python | 📅 2026-08-24 - Python 经典高性能爬虫框架，用于从网站提取结构化数据，是爬虫领域的事实标准。
 * [Maigret](https://github.com/soxoj/maigret) ⭐ 37,002 | 🐛 20 | 🌐 Python | 📅 2026-08-24 - 输入一个用户名，自动在 3000+ 网站搜索公开信息并汇总成数字档案。
 * [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 29,851 | 🐛 11 | 🌐 Python | 📅 2026-08-23 - 使用 LLM + 有向图逻辑构建抓取 pipeline 的 Python 库，支持单页、多页、搜索结果抓取。
@@ -229,7 +229,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 盘点 GitHub 上堪称黑科技的开源项目，请托起你的下巴不要惊掉。
 
 * [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 148,167 | 🐛 2,882 | 🌐 C | 📅 2026-08-17 - 老牌开源安卓投屏控制工具，延迟极低，14 万 Star。
-* [RuView](https://github.com/ruvnet/RuView) ⭐ 91,458 | 🐛 541 | 🌐 Rust | 📅 2026-08-24 - 用 WiFi 信号做空间感知，不需要摄像头即可监测生命体征和人体存在。
+* [RuView](https://github.com/ruvnet/RuView) ⭐ 91,459 | 🐛 541 | 🌐 Rust | 📅 2026-08-24 - 用 WiFi 信号做空间感知，不需要摄像头即可监测生命体征和人体存在。
 * [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) ⭐ 60,108 | 🐛 177 | 🌐 Python | 📅 2026-03-09 - 只需要你 5 秒钟的语音，就能生成你说出来的任何话，细思极恐。
 * [GitNexus](https://github.com/abhigyanpatwari/GitNexus) ⭐ 45,718 | 🐛 333 | 🌐 TypeScript | 📅 2026-08-24 - 浏览器端代码知识图谱引擎，丢入 GitHub 项目链接即可生成交互式知识图谱，内置 Graph RAG Agent，支持理解代码结构、追踪调用链、分析依赖关系。
 * [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) ⭐ 30,748 | 🐛 203 | 🌐 Python | 📅 2026-08-24 - 基于 Chromium 源码级修改的隐身浏览器，反检测 30/30 全过。
@@ -248,7 +248,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 盘点 GitHub 上的沙雕项目，这些项目可能会让你笑的合不拢嘴。
 
-* [thefuck](https://github.com/nvbn/thefuck) ⭐ 97,739 | 🐛 455 | 🌐 Python | 📅 2024-07-19 - 敲错命令时大喊一声 fuck ，并输入 fuck 命令，刚刚键入的错误命令就会自动修正。
+* [thefuck](https://github.com/nvbn/thefuck) ⭐ 97,740 | 🐛 455 | 🌐 Python | 📅 2024-07-19 - 敲错命令时大喊一声 fuck ，并输入 fuck 命令，刚刚键入的错误命令就会自动修正。
 * [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) ⭐ 22,845 | 🐛 293 | 🌐 TypeScript | 📅 2026-08-11 - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件，针对部分人群输入英语时「提笔忘字」的现象，开源了这个软件。
 * [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) ⭐ 16,044 | 🐛 20 | 🌐 JavaScript | 📅 2026-06-19 - 是一个表情包博物馆，中国表情包大集合，堪称 GitHub 最有毒的仓库。
 * [musicbox](https://github.com/darknessomi/musicbox) ⭐ 9,831 | 🐛 54 | 🌐 Python | 📅 2026-07-21 - 符合程序员气质的命令行版本网易云音乐。
@@ -278,7 +278,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 宝藏项目
 
-* [IPTV](https://github.com/iptv-org/iptv) ⭐ 136,600 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-24 - 全球 IPTV 直播源大集合，收录来自世界各地的电视频道链接，按国家和地区分类整理，持续更新维护，是打造个人电视直播系统的必备资源。
+* [IPTV](https://github.com/iptv-org/iptv) ⭐ 136,602 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-24 - 全球 IPTV 直播源大集合，收录来自世界各地的电视频道链接，按国家和地区分类整理，持续更新维护，是打造个人电视直播系统的必备资源。
 * [app-ideas](https://github.com/florinpop17/app-ideas) ⭐ 97,044 | 🐛 606 | 📅 2025-10-11 - 一个项目列表，该列表会根据开发者的水平提供一些练手项目，帮助你提升编程技巧。
 * [vnpy](https://github.com/vnpy/vnpy) ⭐ 44,728 | 🐛 32 | 🌐 Python | 📅 2026-08-10 - VeighNa 是一套基于 Python 的开源量化交易系统开发框架，在开源社区持续不断的贡献下一步步成长为多功能量化交易平台，自发布以来已经积累了众多来自金融机构或相关领域的用户，包括私募基金、证券公司、期货公司等。
 * [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) ⭐ 36,622 | 🐛 38 | 📅 2024-08-06 - 该项目收集了世界上知名网站的源码，包括：谷歌、Youtube、IMDB等等。
@@ -288,7 +288,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 * [Supersplat](https://github.com/playcanvas/supersplat) ⭐ 9,892 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-13 - 浏览器端 3D 高斯溅射编辑器。
 * [WhatCable](https://github.com/darrylmorley/whatcable) ⭐ 8,522 | 🐛 44 | 🌐 Swift | 📅 2026-08-24 - macOS 菜单栏工具，用大白话告诉你 USB-C 线到底能干啥。
 * [FileCodeBox](https://github.com/vastsa/FileCodeBox) ⭐ 8,481 | 🐛 10 | 🌐 Python | 📅 2026-07-24 - 文件快递柜，接收方无需注册登录，输入口令即可提取文件。
-* [zero-native](https://github.com/vercel-labs/zero-native) ⭐ 7,562 | 🐛 143 | 🌐 Zig | 📅 2026-08-24 - Vercel 出品，用 Zig+Web UI 构建原生桌面和移动应用。
+* [zero-native](https://github.com/vercel-labs/zero-native) ⭐ 7,562 | 🐛 142 | 🌐 Zig | 📅 2026-08-24 - Vercel 出品，用 Zig+Web UI 构建原生桌面和移动应用。
 * [OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) ⭐ 7,131 | 🐛 39 | 🌐 C++ | 📅 2026-08-01 - Bambu Lab 3D 打印切片器定制版，3 天 3300 Star。
 * [preserve-cd](https://github.com/skywind3000/preserve-cd) ⭐ 7,032 | 🐛 27 | 📅 2024-11-01 - 绝版游戏保护计划：把一些经典小游戏刻录永久保存。
 * [shanghai\_house\_knowledge](https://github.com/ayuer/shanghai_house_knowledge) ⭐ 5,105 | 🐛 1 | 📅 2021-07-23 - 一位程序员整理了一份「上海购房宝典」在 GitHub 开源。
@@ -396,7 +396,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### SpringCloud项目
 
-* [mall-swarm](https://github.com/macrozheng/mall-swarm) ⭐ 13,098 | 🐛 10 | 🌐 Java | 📅 2026-07-31 - 一个基于 Spring Cloud 的微服务商城系统项目。
+* [mall-swarm](https://github.com/macrozheng/mall-swarm) ⭐ 13,099 | 🐛 10 | 🌐 Java | 📅 2026-07-31 - 一个基于 Spring Cloud 的微服务商城系统项目。
 * [springcloud-learning](https://github.com/macrozheng/springcloud-learning) ⭐ 6,921 | 🐛 0 | 🌐 Java | 📅 2024-08-08 - Spring Cloud 技术教程。
 
 ### 管理系统
@@ -435,17 +435,17 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 好用工具
 
-* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) ⭐ 189,345 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 - Oh My Zsh 是一个社区驱动的开源框架，用于管理 Zsh 配置。
+* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) ⭐ 189,346 | 🐛 574 | 🌐 Shell | 📅 2026-08-24 - Oh My Zsh 是一个社区驱动的开源框架，用于管理 Zsh 配置。
 * [gitignore](https://github.com/github/gitignore) ⭐ 175,439 | 🐛 82 | 📅 2026-07-23 - 提供很多 .gitignore 模板。
-* [PowerToys](https://github.com/microsoft/PowerToys/releases/) ⭐ 138,051 | 🐛 7,518 | 🌐 C | 📅 2026-08-24 - 微软给 Win10 量身打造的效率神器。
+* [PowerToys](https://github.com/microsoft/PowerToys/releases/) ⭐ 138,052 | 🐛 7,518 | 🌐 C | 📅 2026-08-24 - 微软给 Win10 量身打造的效率神器。
 * [hackingtool](https://github.com/Z4nzu/hackingtool) ⭐ 79,088 | 🐛 132 | 🌐 Python | 📅 2026-08-23 - 黑客的多合一黑客工具，包括很多黑客攻击的脚本和工具，比如匿名隐藏工具、SQL 注入工具等等。
 * [you-get](https://github.com/soimort/you-get) ⭐ 56,874 | 🐛 387 | 🌐 Python | 📅 2026-08-24 - 一行命令下载全网视频。
 * [Motrix](https://github.com/agalwood/Motrix) ⭐ 54,448 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-24 - Motrix 是一款全能的下载工具，图形操作界面简单明了。
-* [ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 48,987 | 🐛 8 | 🌐 Python | 📅 2026-08-24 - AI 文档转 PPT 工具。
+* [ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 48,989 | 🐛 8 | 🌐 Python | 📅 2026-08-24 - AI 文档转 PPT 工具。
 * [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 47,455 | 🐛 31 | 🌐 Java | 📅 2026-08-24 - 基于 Spring Boot + Mybatis + Vue 的代码生成器。
 * [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 47,455 | 🐛 31 | 🌐 Java | 📅 2026-08-24 - 一键生成前后端代码，实现低代码开发，让开发者更多关注业务。
 * [Exo](https://github.com/exo-explore/exo) ⭐ 47,006 | 🐛 344 | 🌐 Python | 📅 2026-06-23 - 在普通家用设备上运行 AI 集群的开源项目，支持 Mac、Linux、Android 等设备互联组成分布式计算网络，无需昂贵 GPU 即可运行大语言模型。
-* [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) ⭐ 41,638 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-20 - Reactive Resume 是一个免费和开源的简历生成器，旨在简单的创建、更新和共享简历。
+* [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) ⭐ 41,639 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-20 - Reactive Resume 是一个免费和开源的简历生成器，旨在简单的创建、更新和共享简历。
 * [carbon](https://github.com/carbon-app/carbon) ⭐ 36,089 | 🐛 85 | 🌐 JavaScript | 📅 2026-02-10 - 将源码转化为漂亮的图片，插入到博客就非常美观。
 * [annie](https://github.com/iawia002/annie) ⭐ 31,655 | 🐛 545 | 🌐 Go | 📅 2026-03-29 - 视频下载神器。
 * [Hutool](https://github.com/looly/hutool/) ⭐ 30,267 | 🐛 6 | 🌐 Java | 📅 2026-08-18 - 一款小而全的 Java 工具类库：Hutool。
@@ -455,17 +455,17 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 * [notable](https://github.com/notable/notable) ⭐ 23,500 | 🐛 732 | 📅 2024-06-21 - 高颜值 Markdown 编辑器。
 * [deskreen](https://github.com/pavlobu/deskreen) ⭐ 21,360 | 🐛 20 | 🌐 TypeScript | 📅 2026-07-08 - 将任何设备转换为电脑的辅助屏幕。
 * [DocuSeal](https://github.com/docusealco/docuseal) ⭐ 18,361 | 🐛 118 | 🌐 Ruby | 📅 2026-08-17 - 开源电子签名 DocuSign 替代品。
-* [RenderCV](https://github.com/rendercv/rendercv) ⭐ 17,421 | 🐛 73 | 🌐 Python | 📅 2026-05-01 - 用 YAML/JSON 数据文件自动生成专业简历的开源工具，支持多种模板样式，可输出 PDF 和 Word 格式，便于版本管理和快速迭代。
+* [RenderCV](https://github.com/rendercv/rendercv) ⭐ 17,420 | 🐛 73 | 🌐 Python | 📅 2026-05-01 - 用 YAML/JSON 数据文件自动生成专业简历的开源工具，支持多种模板样式，可输出 PDF 和 Word 格式，便于版本管理和快速迭代。
 * [SystemInformer](https://github.com/winsiderss/systeminformer) ⭐ 15,683 | 🐛 290 | 🌐 C | 📅 2026-08-21 - 免安装 Windows 系统监控工具。
 * [codelf](https://github.com/unbug/codelf) ⭐ 14,145 | 🐛 43 | 🌐 JavaScript | 📅 2025-06-06 - 一个帮助开发者解决变量命名烦恼的工具: CodeIf。
 * [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,057 | 🐛 230 | 🌐 Python | 📅 2026-08-24 - 开源食谱管理工具。
 * [CocoIndex](https://github.com/cocoindex-io/cocoindex) ⭐ 11,397 | 🐛 74 | 🌐 Rust | 📅 2026-08-24 - 代码库智能索引和搜索工具，利用 AI 理解代码语义，支持自然语言搜索代码、跨仓库检索和知识图谱生成，提升代码复用效率。
 * [winapps](https://github.com/Fmstrat/winapps) ⭐ 10,251 | 🐛 259 | 🌐 Shell | 📅 2024-08-18 - 如何在 Linux 上运行 Windows 的应用？
-* [a-stock-data](https://github.com/simonlin1212/a-stock-data) ⭐ 9,177 | 🐛 2 | 📅 2026-08-20 - A 股全栈数据工具包，6 层架构 15 个端点 7 个数据源。
+* [a-stock-data](https://github.com/simonlin1212/a-stock-data) ⭐ 9,180 | 🐛 2 | 📅 2026-08-20 - A 股全栈数据工具包，6 层架构 15 个端点 7 个数据源。
 * [SandDance](https://github.com/microsoft/SandDance) ⭐ 7,144 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-10 - 微软开源的可视化工具太酷炫了。
 * [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) ⭐ 6,921 | 🐛 25 | 🌐 Go | 📅 2026-08-04 - 高级 DNS 隧道 VPN，抗审查利器。
 * [heti](https://github.com/sivan/heti) ⭐ 6,719 | 🐛 24 | 🌐 SCSS | 📅 2025-08-31 - 一个中文排版开源项目。
-* [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) ⭐ 6,567 | 🐛 15 | 🌐 Python | 📅 2026-08-24 - 内容创作者的作弊器，打分-预测-复盘闭环。
+* [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) ⭐ 6,568 | 🐛 15 | 🌐 Python | 📅 2026-08-24 - 内容创作者的作弊器，打分-预测-复盘闭环。
 * [PDF-Craft](https://github.com/oomol-lab/pdf-craft) ⭐ 6,177 | 🐛 51 | 🌐 Python | 📅 2026-08-24 - 将 PDF 转成 EPUB 电子书，支持 OCR 识别扫描件文本，AI 自动构建目录和引用标注，生成 EPUB 和 Markdown 格式。
 * [fusuma](https://github.com/hiroppy/fusuma) ⚠️ Archived - 通过编写 Markdown 来快速生成演讲幻灯片。
 * [SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) ⭐ 5,033 | 🐛 3 | 🌐 Python | 📅 2026-07-18 - 读取项目源码自动生成全套软著申请材料。
@@ -493,6 +493,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 ### Docker工具
 
 * [dive](https://github.com/wagoodman/dive) ⭐ 54,484 | 🐛 211 | 🌐 Go | 📅 2025-12-15 - 用来探索 docker 镜像每一层文件系统，以及发现缩小镜像体积方法的命令行工具。
+* \[lazydocker]\(http s\:// [github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 52,591 | 🐛 295 | 🌐 Go | 📅 2026-04-19) - 带命令行 UI 的 docker 管理工具。可以通过点点点来管理 docker，却又不需要装 rancher 这样的企业级容器管理平台。
 * [drone](https://github.com/drone/drone) ⭐ 38,105 | 🐛 106 | 🌐 Go | 📅 2026-08-21 - 一个基于 Docker 的持续集成平台，使用 Go 语言编写。
 * [docker\_practice](https://github.com/yeasy/docker_practice) ⭐ 26,213 | 🐛 1 | 🌐 Go | 📅 2026-08-23 - Docker 从入门到实践。
 * [watchtower](https://github.com/v2tec/watchtower) ⚠️ Archived - watchtower：自动更新 Docker 容器。
@@ -505,7 +506,6 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 * [rocker](https://github.com/grammarly/rocker) ⚠️ Archived - rocker：突破 Dockerfile 的限制。
 * [docker-dashboard](https://github.com/pipiliang/docker-dashboard) ⭐ 282 | 🐛 4 | 🌐 TypeScript | 📅 2020-11-29 - 基于控制台的 docker 工具，代码简单易读，可以做为学习 Node.js 的实践项目。
 * [diving](https://github.com/vicanso/diving) ⚠️ Archived - 基于 dive 分析 docker 镜像，界面化展示了镜像每层的变动（增加、修改、删除等）、用户层数据大小等信息。
-* \[lazydocker]\(http s\:// github.com/jesseduffield/lazydocker) - 带命令行 UI 的 docker 管理工具。可以通过点点点来管理 docker，却又不需要装 rancher 这样的企业级容器管理平台。
 
 ### 命令行工具
 
@@ -521,7 +521,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 * [ctop](https://github.com/bcicen/ctop) ⭐ 17,823 | 🐛 121 | 🌐 Go | 📅 2024-07-08 - 一款给力的 Docker 监控工具。
 * [z](https://github.com/rupa/z) ⭐ 17,045 | 🐛 107 | 🌐 Shell | 📅 2024-06-19 - 该工具可以让你快速地在文件目录之间跳转。
 * [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,735 | 🐛 15 | 🌐 Shell | 📅 2026-07-14 - 一款对 Ruby 不同版本管理的工具。
-* [lark-cli](https://github.com/larksuite/cli) ⭐ 16,706 | 🐛 579 | 🌐 Go | 📅 2026-08-24 - 飞书官方 CLI，2500+ API 封装为 200+ 命令和 24 个 AI Agent Skill。
+* [lark-cli](https://github.com/larksuite/cli) ⭐ 16,707 | 🐛 579 | 🌐 Go | 📅 2026-08-24 - 飞书官方 CLI，2500+ API 封装为 200+ 命令和 24 个 AI Agent Skill。
 * [Learn-Vim](https://github.com/iggredible/Learn-Vim) ⭐ 15,192 | 🐛 19 | 🌐 Dockerfile | 📅 2026-04-23 - 用聪明的方式学习 Vim 。
 * [pipx](https://github.com/pipxproject/pipx) ⭐ 12,945 | 🐛 4 | 🌐 Python | 📅 2026-08-23 - Python 依赖安装环境工具命令行工具。
 * [mas](https://github.com/mas-cli/mas) ⭐ 12,313 | 🐛 88 | 🌐 Swift | 📅 2026-08-24 - App Store 的命令行工具。
@@ -564,16 +564,16 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 学习项目
 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 542,524 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 - 汇集了诸多优质资源，教你如何构建一些属于自己的东西，内容主要分为增强现实、区块链、机器人、编辑器等等。 )
-* [public-apis](https://github.com/public-apis/public-apis) ⭐ 469,618 | 🐛 1,759 | 🌐 Python | 📅 2026-08-19 - 收集了了很多免费的 API，供你的项目和应用程序使用。
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,131 | 🐛 85 | 🌐 Python | 📅 2026-08-18 - 收集了特别多免费的编程电子书、编程课程、播客、网站等学习资源。
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 365,712 | 🐛 612 | 🌐 Python | 📅 2026-03-20 - 帮助你学习如何设计大型系统。
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 542,527 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 - 汇集了诸多优质资源，教你如何构建一些属于自己的东西，内容主要分为增强现实、区块链、机器人、编辑器等等。 )
+* [public-apis](https://github.com/public-apis/public-apis) ⭐ 469,626 | 🐛 1,759 | 🌐 Python | 📅 2026-08-19 - 收集了了很多免费的 API，供你的项目和应用程序使用。
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,132 | 🐛 85 | 🌐 Python | 📅 2026-08-18 - 收集了特别多免费的编程电子书、编程课程、播客、网站等学习资源。
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 365,716 | 🐛 612 | 🌐 Python | 📅 2026-03-20 - 帮助你学习如何设计大型系统。
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,301 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-21 - 为前端、后端、DevOps等开发着准备可详细的技术路线图。
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md) ⭐ 359,617 | 🐛 125 | 📅 2025-08-28 - 堪称 GitHub 上最励志的学习教程，上岸谷歌的编程大佬的自学笔记。
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,546 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26 - 算法和数据结构是计算机学习的基石。
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,157 | 🐛 257 | 📅 2024-06-25 - 总结了在 Linux 上使用命令行时的相关技巧，内容覆盖基础使用、文件操作、数据处理等等。
-* [hello-agents](https://github.com/datawhalechina/hello-agents) ⭐ 74,512 | 🐛 173 | 🌐 Python | 📅 2026-08-18 - Datawhale 出品，从零开始构建智能体教程。
-* [dive-into-llms](https://github.com/Lordog/dive-into-llms) ⭐ 50,080 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-10-10 - 上海交大《动手学大模型》编程实践教程。
+* [hello-agents](https://github.com/datawhalechina/hello-agents) ⭐ 74,514 | 🐛 173 | 🌐 Python | 📅 2026-08-18 - Datawhale 出品，从零开始构建智能体教程。
+* [dive-into-llms](https://github.com/Lordog/dive-into-llms) ⭐ 50,081 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-10-10 - 上海交大《动手学大模型》编程实践教程。
 * [Open Notebook](https://github.com/lfnovo/open-notebook) ⭐ 37,514 | 🐛 139 | 🌐 TypeScript | 📅 2026-08-16 - 开放式个人知识管理和学习平台，结合 AI 能力辅助笔记整理、知识关联和学习路径规划，构建第二大脑。
 * [easy-vibe](https://github.com/datawhalechina/easy-vibe) ⭐ 19,086 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-24 - 2026 Vibe Coding 入门教程。
 * [SurfSense](https://github.com/MODSetter/SurfSense) ⭐ 15,999 | 🐛 120 | 🌐 Python | 📅 2026-08-24 - 浏览器知识管理工具，自动整理网页内容、提取关键信息、构建个人知识库，支持多平台同步，让浏览记录变为知识资产。
@@ -612,10 +612,10 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### Python资源
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,794 | 🐛 17 | 🌐 Python | 📅 2026-08-24 - 这是一个接近 100k 标星的开源项目，它收集了基于 Python 进行开发各种场景的资源和库。
-* [project-based-learning](https://github.com/tuvtran/project-based-learning#python) ⭐ 280,596 | 🐛 270 | 🌐 Python | 📅 2026-08-24 - 教你搞个爬虫、做个机器人、搞个 Web项目。从项目入手，快速学习 Python。
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,797 | 🐛 17 | 🌐 Python | 📅 2026-08-24 - 这是一个接近 100k 标星的开源项目，它收集了基于 Python 进行开发各种场景的资源和库。
+* [project-based-learning](https://github.com/tuvtran/project-based-learning#python) ⭐ 280,599 | 🐛 270 | 🌐 Python | 📅 2026-08-24 - 教你搞个爬虫、做个机器人、搞个 Web项目。从项目入手，快速学习 Python。
 * [python-guide](https://github.com/realpython/python-guide) ⭐ 29,777 | 🐛 136 | 🌐 Batchfile | 📅 2026-07-27 - 关于 Python 日常安装、配置和使用的最佳实践手册，包括 pip、numpy、virtualenv等的介绍。
-* [algorithms](https://github.com/keon/algorithms) ⭐ 25,543 | 🐛 5 | 🌐 Python | 📅 2026-08-01 - 基于 Python 3 的数据结构与算法实现。
+* [algorithms](https://github.com/keon/algorithms) ⭐ 25,542 | 🐛 5 | 🌐 Python | 📅 2026-08-01 - 基于 Python 3 的数据结构与算法实现。
 * [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) ⭐ 18,005 | 🐛 73 | 🌐 Jupyter Notebook | 📅 2026-07-11 - 收集了将近 400 个开源 Python 应用程序。
 * [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) ⭐ 12,710 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-29 - 作者收集了一些奇怪的 Python 代码片段，当你敲完这些代码片段，运行看到结果，会惊呼：What the f\*ck！因为这些代码的输出结果会和你想象中的不太一样。
 * [quant-trading](https://github.com/je-suis-tm/quant-trading) ⭐ 10,617 | 🐛 4 | 🌐 Python | 📅 2026-06-20 - Python 量化交易策略集合，包含 VIX 计算器、模式识别、蒙特卡洛模拟、期权跨式策略、伦敦突破、平均K线图、配对交易、RSI、布林带、抛物线SAR、Dual Thrust、MACD 等多种技术指标和交易策略。
@@ -630,7 +630,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 电子书籍
 
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,131 | 🐛 85 | 🌐 Python | 📅 2026-08-18 - 收集了特别多免费的编程电子书、编程课程、播客、网站等学习资源。
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,132 | 🐛 85 | 🌐 Python | 📅 2026-08-18 - 收集了特别多免费的编程电子书、编程课程、播客、网站等学习资源。
 
 ### Linux学习项目
 
@@ -703,7 +703,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 百度开源
 
-* [echarts](https://github.com/apache/echarts) ⭐ 67,135 | 🐛 1,542 | 🌐 TypeScript | 📅 2026-08-04 - ECharts 是国内应用最广泛的前端可视化生成工具，像素级的渲染效果使得绘制的图像几近完美。
+* [echarts](https://github.com/apache/echarts) ⭐ 67,136 | 🐛 1,542 | 🌐 TypeScript | 📅 2026-08-04 - ECharts 是国内应用最广泛的前端可视化生成工具，像素级的渲染效果使得绘制的图像几近完美。
 * [nodePPT](https://github.com/ksky521/nodePPT) ⚠️ Archived - 迄今为止最好的网页版 PPT，基于 markdown 语法编写。
 * [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) ⭐ 80 | 🐛 12 | 🌐 Python | 📅 2025-06-26 - 一个深度学习模型开发工具，它提供了很多训练好的人工智能算法模型。
 * [magic](https://www.minimamente.com/project/magic/) - Magic 是一个轻量级 UI 组件，具有性能高效、代码量小等优势。
@@ -722,7 +722,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 阿里开源
 
-* [ant-design](https://github.com/ant-design/ant-design) ⭐ 99,170 | 🐛 1,087 | 🌐 TypeScript | 📅 2026-08-24 - 蚂蚁金服开源的一套企业级的前端设计语言和基于 React 的前端框架实现。
+* [ant-design](https://github.com/ant-design/ant-design) ⭐ 99,172 | 🐛 1,087 | 🌐 TypeScript | 📅 2026-08-24 - 蚂蚁金服开源的一套企业级的前端设计语言和基于 React 的前端框架实现。
 * [dubbo](https://github.com/alibaba/dubbo) ⭐ 41,556 | 🐛 1,031 | 🌐 Java | 📅 2026-08-21 - Dubbo 是阿里巴巴的一款高性能、轻量级的开源 Java RPC框架，可以和 Spring 框架无缝集成。
 * [arthas](https://github.com/alibaba/arthas) ⭐ 37,501 | 🐛 485 | 🌐 Java | 📅 2026-08-14 - Arthas 是阿里巴巴开源的 Java 诊断工具，深受开发者喜爱。
 * [easyexcel](https://github.com/alibaba/easyexcel) ⚠️ Archived - easyexcel 重写了 poi 对 07 版 Excel 的解析，大大降低了内存功耗。
@@ -733,7 +733,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 * [Mock.js](https://github.com/nuysoft/Mock) ⭐ 19,585 | 🐛 340 | 🌐 JavaScript | 📅 2024-03-15 - 模拟数据生成器，帮助前端开发者独立于后端进行开发，帮助编写单元测试。
 * [egg](https://github.com/eggjs/egg) ⭐ 18,986 | 🐛 409 | 🌐 TypeScript | 📅 2026-08-23 - 企业级 Node.js 框架 。
 * [umi](https://github.com/umijs/umi) ⭐ 16,036 | 🐛 319 | 🌐 TypeScript | 📅 2026-08-24 - 基于 React 的前端框架 。
-* [OpenSandbox](https://github.com/alibaba/OpenSandbox) ⭐ 14,649 | 🐛 157 | 🌐 Python | 📅 2026-08-24 - 阿里巴巴开源的通用 AI 应用沙盒平台，提供多语言 SDK 和统一沙盒 API，支持 Docker 和 Kubernetes 运行时，适用于 Coding Agents、Agent 评估、AI 代码执行等场景。
+* [OpenSandbox](https://github.com/alibaba/OpenSandbox) ⭐ 14,650 | 🐛 157 | 🌐 Python | 📅 2026-08-24 - 阿里巴巴开源的通用 AI 应用沙盒平台，提供多语言 SDK 和统一沙盒 API，支持 Docker 和 Kubernetes 运行时，适用于 Coding Agents、Agent 评估、AI 代码执行等场景。
 * [Weex](https://github.com/apache/incubator-weex/) ⚠️ Archived - 跨平台移动开发工具。
 * [tengine](https://github.com/alibaba/tengine) ⭐ 13,337 | 🐛 501 | 🌐 C | 📅 2026-08-24 - 淘宝 Web 服务器。在Nginx的基础上，针对大访问量网站的需求，添加了很多高级功能和特性。
 * [g2](https://github.com/antvis/g2) ⭐ 12,595 | 🐛 182 | 🌐 TypeScript | 📅 2026-07-15 - 数据驱动的高交互可视化图形语法，一条语句即可构建出各种各样的可交互的统计图表。
@@ -763,7 +763,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 字节开源
 
-* [deer-flow](https://github.com/bytedance/deer-flow) ⭐ 80,775 | 🐛 898 | 🌐 Python | 📅 2026-08-24 - 字节跳动开源的 SuperAgent 运行时框架，提供完整的 Agent 执行环境，包括沙盒、记忆系统、工具调用、技能扩展、子 Agent 协作等，基于 LangGraph 和 LangChain 构建。
+* [deer-flow](https://github.com/bytedance/deer-flow) ⭐ 80,776 | 🐛 897 | 🌐 Python | 📅 2026-08-24 - 字节跳动开源的 SuperAgent 运行时框架，提供完整的 Agent 执行环境，包括沙盒、记忆系统、工具调用、技能扩展、子 Agent 协作等，基于 LangGraph 和 LangChain 构建。
 * [g3](https://github.com/bytedance/g3) ⭐ 894 | 🐛 29 | 🌐 Rust | 📅 2026-08-23 - 字节跳动开源的企业级通用正向代理解决方案，基于 Rust 异步开发，支持 HTTP/Socks5 正向代理、TLS 中间人、ICAP 安全审计、优雅重载和热升级。
 * [semi-design](www.github.com/DouyinFE/semi-design) - 抖音企业级应用 UI 解决方案 Semi Design，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。
 
